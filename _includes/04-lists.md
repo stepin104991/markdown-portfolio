@@ -1,3 +1,3 @@
-*Playing 
-*Watching TV
-*Reading Novels
+-Playing 
+-Watching TV
+-Reading Novels
