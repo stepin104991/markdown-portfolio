@@ -1,0 +1,3 @@
+- Playing 
+- Watching TV
+- Reading Novels
